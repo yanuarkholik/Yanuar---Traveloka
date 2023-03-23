@@ -1,0 +1,22 @@
+{
+  "name": "simpatik-kominfo",
+  "version": "1.0.0",
+  "description": "automation simpatik kominfo",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --no-timeouts"
+  },
+  "author": "yanz",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "chromedriver": "^111.0.0",
+    "envdot": "^0.0.3",
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^4.8.1"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "jest-cli": "^29.5.0"
+  }
+}
